@@ -4,7 +4,7 @@ theme = "somrat"
 title = "Nick Pourazima's Website"
 [Languages.en]
 contentDir = "content/english"
-# copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
+copyright = "Copyright &copy; 2020"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
@@ -79,8 +79,6 @@ preloader = "images/preloader.gif"
 icon = "fa-facebook-f"
 link = "https://www.facebook.com/nick.pourazima.96"
 [[params.social]]
-icon = "fa-discogs"
-link = "https://www.discogs.com/artist/6080079-Nick-Pourazima"
 [[params.social]]
 icon = "fa-instagram"
 link = "https://www.instagram.com/rmints"

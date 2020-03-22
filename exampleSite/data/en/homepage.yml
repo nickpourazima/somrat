@@ -80,7 +80,7 @@ service:
 call_to_action:
   enable: true
   bg_image: images/backgrounds/need-service.jpg
-  title: NEED A SERVICE?
+  title: CONTACT
   button:
     enable: true
     label: SAY HELLO!
@@ -105,50 +105,6 @@ portfolio:
     image: images/portfolio/item4.jpg
     date: Feb 2018
     category: Web Development
-  - name: Project <br> Title
-    image: images/portfolio/item5.jpg
-    date: Feb 2018
-    category: Web Development
-  - name: Project <br> Title
-    image: images/portfolio/item6.jpg
-    date: Feb 2018
-    category: Web Development
-  - name: Project <br> Title
-    image: images/portfolio/item7.jpg
-    date: Feb 2018
-    category: Graphics
-  - name: Project <br> Title
-    image: images/portfolio/item8.jpg
-    date: Feb 2018
-    category: Graphics
-  - name: Project <br> Title
-    image: images/portfolio/item9.jpg
-    date: Feb 2018
-    category: Database
-  - name: Project <br> Title
-    image: images/portfolio/item10.jpg
-    date: Feb 2018
-    category: Database
-  - name: Project <br> Title
-    image: images/portfolio/item11.jpg
-    date: Feb 2018
-    category: Database
-  - name: Project <br> Title
-    image: images/portfolio/item12.jpg
-    date: Feb 2018
-    category: Graphics
-  - name: Project <br> Title
-    image: images/portfolio/item13.jpg
-    date: Feb 2018
-    category: Graphics
-  - name: Project <br> Title
-    image: images/portfolio/item14.jpg
-    date: Feb 2018
-    category: Graphics
-  - name: Project <br> Title
-    image: images/portfolio/item15.jpg
-    date: Feb 2018
-    category: Graphics
 testimonial:
   enable: false
   title: TESTIMONIALS
