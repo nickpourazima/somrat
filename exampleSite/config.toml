@@ -1,10 +1,10 @@
 baseURL = "https://pourazima.netlify.com"
-disableLanguages = []
+disableLanguages = [fr]
 theme = "somrat"
 title = "Nick Pourazima's Website"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
+copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com), pictures by Nick Pourazima"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
@@ -34,7 +34,7 @@ URL = "#contact"
 name = "Contact"
 weight = 6
 [params]
-author = "somrat"
+author = "nickpourazima"
 contact_form_action = ""
 description = "This is meta description"
 google_analitycs_id = ""
@@ -78,7 +78,6 @@ preloader = "images/preloader.gif"
 [[params.social]]
 icon = "fa-facebook-f"
 link = "https://www.facebook.com/nick.pourazima.96"
-[[params.social]]
 [[params.social]]
 icon = "fa-instagram"
 link = "https://www.instagram.com/rmints"
