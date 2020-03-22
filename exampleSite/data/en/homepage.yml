@@ -3,8 +3,9 @@ hero:
   title: Nick Pourazima
   occupations:
   - Acoustical Engineer
-  - Audio Engineer
   - Electrical Engineer
+  - Musician
+  - Audio Engineer
   slider_image:
   - images/slider/slider-1.jpg
   - images/slider/slider-2.jpg
@@ -22,7 +23,9 @@ about:
   enable: true
   image: images/backgrounds/portrait.jpg
   title: KNOW MORE <br> ABOUT ME
-  content: "I am a technically adept and creatively oriented individual; a trained engineer and practiced musician who is deeply driven to utilize my skills toward the betterment of society."
+  content: I am a technically adept and creatively oriented individual; a trained
+    engineer and practiced musician who is deeply driven to utilize my skills toward
+    the betterment of society.
   button:
     enable: true
     label: DOWNLOAD MY RESUME
