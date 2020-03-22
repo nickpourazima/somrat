@@ -30,7 +30,7 @@ about:
   button:
     enable: true
     label: DOWNLOAD MY CV
-    link: "#https://nickpourazima.github.io/"
+    link: https://nickpourazima.github.io
 experience:
   enable: true
   title: EXPERIENCE
