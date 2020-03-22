@@ -1,4 +1,4 @@
-baseURL = "https://pourazima.com"
+baseURL = "https://pourazima.netlify.com"
 disableLanguages = []
 theme = "somrat"
 title = "Somrat | Hugo Portfolio Template"
