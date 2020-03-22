@@ -1,5 +1,5 @@
 baseURL = "https://pourazima.netlify.com"
-disableLanguages = [fr]
+disableLanguages = []
 theme = "somrat"
 title = "Nick Pourazima's Website"
 [Languages.en]

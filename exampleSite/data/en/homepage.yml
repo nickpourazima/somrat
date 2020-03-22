@@ -10,9 +10,12 @@ hero:
   - images/slider/slider-1.jpg
   - images/slider/slider-2.jpg
   - images/slider/slider-3.jpg
+  - images/slider/slider-4.jpg
+  - images/slider/slider-5.jpg
+  - images/slider/slider-6.jpg
   button:
     enable: true
-    label: HIRE ME
+    label: CONTACT ME
     link: "#contact"
 fullscreen_nav:
   enable: true
@@ -22,7 +25,7 @@ fullscreen_nav:
 about:
   enable: true
   image: images/backgrounds/portrait.jpg
-  title: KNOW MORE <br> ABOUT ME
+  title: ABOUT ME
   content: I am a technically adept and creatively oriented individual; a trained
     engineer and practiced musician who is deeply driven to utilize my skills toward
     the betterment of society.
