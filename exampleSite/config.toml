@@ -1,21 +1,14 @@
 baseURL = "https://pourazima.netlify.com"
 disableLanguages = []
 theme = "somrat"
-title = "Somrat | Hugo Portfolio Template"
+title = "Nick Pourazima's Website"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
+# copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-[Languages.fr]
-contentDir = "content/french"
-copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
-home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
-weight = 2
 [[menu.main]]
 URL = "#home"
 name = "Home"
@@ -84,16 +77,13 @@ enable = true
 preloader = "images/preloader.gif"
 [[params.social]]
 icon = "fa-facebook-f"
-link = "https://www.facebook.com/somrat.mac"
+link = "https://www.facebook.com/nick.pourazima.96"
 [[params.social]]
-icon = "fa-twitter"
-link = "https://twitter.com/somrat_37"
+icon = "fa-discogs"
+link = "https://www.discogs.com/artist/6080079-Nick-Pourazima"
 [[params.social]]
 icon = "fa-instagram"
-link = "https://www.instagram.com/somrat_sorkar/"
+link = "https://www.instagram.com/rmints"
 [[params.social]]
 icon = "fa-github"
-link = "https://github.com/Somrat37"
-[[params.social]]
-icon = "fa-linkedin"
-link = "https://www.linkedin.com/in/somrat-sorkar-872581158/"
+link = "https://github.com/nickpourazima"
