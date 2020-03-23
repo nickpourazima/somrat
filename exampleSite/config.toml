@@ -4,7 +4,7 @@ theme = "somrat"
 title = "Nick Pourazima's Website"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com), pictures by Nick Pourazima"
+copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com), photographs by Nick Pourazima, Rachel Minto"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
@@ -33,7 +33,7 @@ weight = 4
 author = "nickpourazima"
 contact_form_action = "https://formspree.io/xbjkpppz"
 description = "This is meta description"
-google_analitycs_id = ""
+google_analitycs_id = "UA-161633375-1"
 logo_dark = "images/logo-dark.png"
 logo_light = "images/logo.png"
 [[params.plugins.css]]
