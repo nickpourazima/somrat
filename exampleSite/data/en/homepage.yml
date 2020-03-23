@@ -31,7 +31,7 @@ about:
     the betterment of society.
   button:
     enable: true
-    label: DOWNLOAD MY RESUME
+    label: MY RESUME
     link: https://nickpourazima.github.io
 experience:
   enable: true
